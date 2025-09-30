@@ -1,11 +1,11 @@
-# 👋 Hi there, I’m Howard Ding (Ye)
+# 👋 Hi there, I’m Howard Ding Ye
 
 Welcome to my GitHub profile! 
 
 ## About Me
 
-*  _I’m exploring data science and Git/GitHub workflows_
-* *I'm still learning it honestly*
+*  *I’m exploring data science and Git/GitHub workflows*
+* _I'm still learning it honestly_
 
 ## What You’ll Find Here
 
