@@ -1,22 +1,20 @@
-# 👋 Hi there, I’m Howard (Dingye)
+# 👋 Hi there, I’m Howard Ding (Ye)
 
 Welcome to my GitHub profile! 
 
 ## About Me
 
-*  _I’m exploring data science, R, and Git/GitHub workflows_
-* *Always curious and eager to pick up new tools and skills*
+*  _I’m exploring data science and Git/GitHub workflows_
+* *I'm still learning it honestly*
 
 ## What You’ll Find Here
 
-* my work
+* 📖my work
 
-
-## Connect with Me
 
 * GitHub: [@oneandonlydingye](https://github.com/oneandonlydingye)
 
 ---
 
-*Thanks for visiting my profile! Feel free to follow along.*
+*Thanks for visiting my profile!*
 
