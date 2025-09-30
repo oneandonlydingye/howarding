@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Howard Ding Ye
+# 👋 Hi there, I’m Howard Ding
 
 Welcome to my GitHub profile! 
 
